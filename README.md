@@ -33,6 +33,8 @@ git pull
 ```
 git restore —source XXXXXXX app.js
 git restore —source XXXXXXX .
+git reset --soft XXXXXXX
+git reset --hard XXXXXXX
 ```
 
 ```
