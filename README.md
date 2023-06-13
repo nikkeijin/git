@@ -30,6 +30,11 @@ git push
 git pull
 ```
 
+Discard all pending changes, both the unstaged and staged changes   
+```bash
+git reset --hard HEAD
+```
+
 ```bash
 git restore —source XXXXXXX app.js
 git restore —source XXXXXXX .
