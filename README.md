@@ -30,8 +30,8 @@ git push
 git pull
 ```
 
-Discard all pending changes, both the unstaged and staged changes   
 ```bash
+Discard all pending changes, both the unstaged and staged changes   
 git reset --hard HEAD
 ```
 
