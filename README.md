@@ -45,7 +45,13 @@ git reset --hard XXXXXXX
 ```bash
 git branch
 
+// Create Branch
 git branch development
+
+// Switch Branch
+git checkout development
+
+// Create and Switch Branch
 git checkout -b development
 
 git switch main
